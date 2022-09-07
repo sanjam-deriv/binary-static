@@ -542,9 +542,9 @@
         #contract_purchase_profit {
             border-left: 1px solid $COLOR_GRAY;
         }
-        #contract_purchase_cost{
+        #contract_purchase_cost {
             > p {
-                @media (max-width:372px) {
+                @media (max-width: 372px) {
                     margin-top: 2.4em;
                 }
             }
